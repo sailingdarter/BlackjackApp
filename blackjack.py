@@ -118,6 +118,10 @@ def new_game():
     deal_player()
 
 
+def brian():
+    print("Brian Says Hello")
+
+
 def shuffle():
     random.shuffle(deck)
 
